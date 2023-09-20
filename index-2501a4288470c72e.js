@@ -46,8 +46,8 @@
                                     (0, a.jsxs)("div", {
                                         className: "flex flex-col gap-y-1 px-8 w-full xl:py-0 lg:py-32 md:py-40 sm:py-48 min-[425px]:py-56 py-60",
                                         children: [
-                                            (0, a.jsxs)("h1", { className: "".concat(t ? "animate-fadeIn" : "opacity-0", " text-white font-bold sm:text-6xl text-4xl font-kanit"), children: ["Hey, I'm", (0, a.jsx)("span", { className: "duration-1000 ".concat(s), children: " Patrick" }), (0, a.jsx)("span", { className: "text-gray-400 sm:text-base text-sm sm:pl-1 pl-0 italic sm:inline flex", children: " aka Moist Nugget" })] }),
-                                            (0, a.jsx)(h.E.p, { initial: { transform: "translateX(-20px)", opacity: 0 }, whileInView: { transform: "translateX(0)", opacity: 100 }, transition: { duration: 1, delay: 0.1, ease: [0.39, 0.21, 0.12, 0.96] }, viewport: { amount: 0.2, once: !0 }, className: "text-white font-semibold sm:text-2xl text-xl font-kanit", children: "I'm a 15 year old full-stack developer from California." }),
+                                            (0, a.jsxs)("h1", { className: "".concat(t ? "animate-fadeIn" : "opacity-0", " text-white font-bold sm:text-6xl text-4xl font-kanit"), children: ["Hey, We're", (0, a.jsx)("span", { className: "duration-1000 ".concat(s), children: "  Control Alt + Defeat" })] }),
+                                            (0, a.jsx)(h.E.p, { initial: { transform: "translateX(-20px)", opacity: 0 }, whileInView: { transform: "translateX(0)", opacity: 100 }, transition: { duration: 1, delay: 0.1, ease: [0.39, 0.21, 0.12, 0.96] }, viewport: { amount: 0.2, once: !0 }, className: "text-white font-semibold sm:text-2xl text-xl font-kanit", children: "We are a FIRST team based in the bay area" }),
                                             (0, a.jsxs)("ul", {
                                                 className: "flex flex-row flex-wrap w-fit gap-2",
                                                 children: [
@@ -62,7 +62,7 @@
                                                         delay: 0.3,
                                                     }),
                                                     (0, a.jsx)(p, {
-                                                        href: "https://discord.com/users/726151990228549705/",
+                                                        href: "https://discord.gg/tXC6Dqx3",
                                                         svg: (0, a.jsx)("svg", {
                                                             className: "m-auto mt-2.5 w-7 h-7 fill-[#5865F2]",
                                                             xmlns: "http://www.w3.org/2000/svg",
