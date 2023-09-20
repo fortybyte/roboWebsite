@@ -46,7 +46,7 @@
                                     (0, a.jsxs)("div", {
                                         className: "flex flex-col gap-y-1 px-8 w-full xl:py-0 lg:py-32 md:py-40 sm:py-48 min-[425px]:py-56 py-60",
                                         children: [
-                                            (0, a.jsxs)("h1", { className: "".concat(t ? "animate-fadeIn" : "opacity-0", " text-white font-bold sm:text-6xl text-4xl font-kanit"), children: ["Hey, We're", (0, a.jsx)("span", { className: "duration-1000 ".concat(s), children: "  Control Alt + Defeat" })] }),
+                                            (0, a.jsxs)("h1", { className: "".concat(t ? "animate-fadeIn" : "opacity-0", " text-white font-bold sm:text-6xl text-4xl font-kanit"), children: ["Hey, We're", (0, a.jsx)("span", { className: "duration-1000 ".concat(s), children: "  Control-Alt-Defeat" })] }),
                                             (0, a.jsx)(h.E.p, { initial: { transform: "translateX(-20px)", opacity: 0 }, whileInView: { transform: "translateX(0)", opacity: 100 }, transition: { duration: 1, delay: 0.1, ease: [0.39, 0.21, 0.12, 0.96] }, viewport: { amount: 0.2, once: !0 }, className: "text-white font-semibold sm:text-2xl text-xl font-kanit", children: "We are a FIRST team based in the bay area" }),
                                             (0, a.jsxs)("ul", {
                                                 className: "flex flex-row flex-wrap w-fit gap-2",
