@@ -103,7 +103,7 @@ html {
     left: calc(50vw - 15vh);
     top: 15vh;
     border-radius: 50%;
-    border: 1vh solid green;
+    border: 1vh solid rgb(203, 112, 42);
   }
   
   #break1 {
@@ -116,7 +116,7 @@ html {
   
   #hello {
     font-family: 'Anton', sans-serif;
-    color: rgb(255, 0, 0);
+    color: rgb(203, 186, 186);
     font-size: 5.5vw;
     position: absolute;
     top: 40vh;
