@@ -26,7 +26,7 @@
                 c = s.n(r);
             function d(e) {
                 let { clickScroll: t, clickScroll2: s, pageLoad: n } = e;
-                return (0, a.jsx)(a.Fragment, { children: (0, a.jsx)("header", { className: "relative", children: (0, a.jsxs)("nav", { className: "".concat(n ? "animate-fade-in-top" : "opacity-0", " fixed flex w-full z-50 bg-slate-950/80 p-4 sm:px-24 px-4 justify-between items-center"), children: [(0, a.jsx)(c(), { href: "/", children: (0, a.jsx)("img", { draggable: !1, className: "h-12 w-12 rounded-full", alt: "image", src: "https://patrickzhou.is-a.dev/pfp.JPG" }) }), (0, a.jsxs)("ul", { className: "flex flex-row gap-x-2", children: [(0, a.jsx)("li", { children: (0, a.jsx)("button", { className: "text-white font-kanit text-lg p-2 hover:bg-slate-800 duration-300 rounded-md", onClick: t, children: "About Me" }) }), (0, a.jsx)("li", { children: (0, a.jsx)("button", { className: "text-white font-kanit text-lg p-2 hover:bg-slate-800 duration-300 rounded-md", onClick: s, children: "Projects" }) })] })] }) }) });
+                return (0, a.jsx)(a.Fragment, { children: (0, a.jsx)("header", { className: "relative", children: (0, a.jsxs)("nav", { className: "".concat(n ? "animate-fade-in-top" : "opacity-0", " fixed flex w-full z-50 bg-slate-950/80 p-4 sm:px-24 px-4 justify-between items-center"), children: [(0, a.jsx)(c(), { href: "/", children: (0, a.jsx)("img", { draggable: !1, className: "h-12 w-12 rounded-full", alt: "image", src: "https://cdn.discordapp.com/attachments/1120770690702921819/1153884394474459156/pain.jpeg" }) }), (0, a.jsxs)("ul", { className: "flex flex-row gap-x-2", children: [(0, a.jsx)("li", { children: (0, a.jsx)("button", { className: "text-white font-kanit text-lg p-2 hover:bg-slate-800 duration-300 rounded-md", onClick: t, children: "About Me" }) }), (0, a.jsx)("li", { children: (0, a.jsx)("button", { className: "text-white font-kanit text-lg p-2 hover:bg-slate-800 duration-300 rounded-md", onClick: s, children: "Projects" }) })] })] }) }) });
             }
             var h = s(9090);
             function p(e) {
@@ -136,7 +136,7 @@
                                                             className: "m-auto mt-2.5 w-7 h-7",
                                                             alt: "telegram",
                                                         }),
-                                                        delay: 1.2,
+                                                        delay: 0.75,
                                                     }),
                                                 ],
                                             }),
